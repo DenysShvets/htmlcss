@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding:0;
+}
+h2{
+    margin-block-end: 5px;
+}
+
+hr{
+color: black;
+   margin:10px;
+}
+
+header{
+    background:#ada8a8;
+    align-items: center;
+    padding: 1em;
+    display: flex;
+justify-content: space-between;
+}
+
+body{
+    background:#b6b2b2;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+
+
+img{
+  width: auto;
+  height: auto;  
+}
+
+.for_header{
+    width: 50px;
+    height: 50px;
+}
+.for_footer{
+    align-content: center;
+    color: rgb(27, 24, 24);
+}
+
+.main{
+    margin-top: 2em;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.info{
+    display: flex;
+    padding:24px;
+    margin:2em;
+    color: black;
+    text-emphasis: none;
+    text-align: center;
+}
+
+.text_info{
+    padding-block-start: 10px;
+    background:#ada8a8;
+    width: 100% inherit;
+    align-content: center;
+    text-align:center;
+    margin-left:2em;
+}
+.text_info_Cakeboy{
+    padding-block-start: 10px;
+    background:#ada8a8;
+    width: 100% inherit;
+    align-content: center;
+    text-align:center;
+    margin-right:2em;
+}
+.GlamGoGang_img{
+    width: auto;
+    height: auto ;
+}
+
+.CakeBoy_img{
+    width: 305px;
+    height: 165px;
+}
